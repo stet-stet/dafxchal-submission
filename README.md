@@ -1,6 +1,12 @@
 # Task A Submission:
 
-Submission for Task A of the 1st DAFx Parameter Estimation Challenge.
+Submission for Task A of the 1st DAFx Parameter Estimation Challenge. 
+
+Update: We won 2nd prize. Yay.
+
+* [Our Writeup](https://arxiv.org/abs/2608.28818)
+* [Challenge Repo](https://github.com/LOGUNIVPM/1st-DAFx-Challenge/tree/main)
+* [Challenge Results](https://dafx.de/paper-archive/2026/papers/DAFx26_challenge_76.pdf)
 
 ## Hardware
 
